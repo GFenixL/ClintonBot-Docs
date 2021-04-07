@@ -2,7 +2,7 @@
 description: Добро пожаловать в официальную документацию ClintonBot
 ---
 
-# ClintonBot Docs
+# ClintonBot Documentation
 
 
 

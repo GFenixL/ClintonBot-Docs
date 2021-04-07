@@ -1,4 +1,4 @@
 # Table of contents
 
-* [ClintonBot Docs](README.md)
+* [ClintonBot Documentation](README.md)
 
