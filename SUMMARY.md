@@ -2,7 +2,7 @@
 
 * [ClintonBot Documentation](README.md)
 
-## First steps
+## Первые шаги
 * [Добавить на сервер](addtoserver.md)
 * [Начало работы](firstworking.md)
 
