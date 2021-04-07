@@ -9,4 +9,4 @@ description: Добро пожаловать в официальную доку�
 ## 📜 Информация <a id="information"></a>
 
 • ![:developer:](https://cdn.discordapp.com/emojis/723087579276378153.png?v=1) **`Создатель:`** @GFenixL#6222
-• ![:developer:](https://cdn.discordapp.com/emojis/723087579276378153.png?v=1) **`Создатель:`** @GFenixL#6222
+• ![:developer:](https://cdn.discordapp.com/emojis/452955567795732480.png?v=1) **`Создатель:`** @GFenixL#6222
