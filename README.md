@@ -12,4 +12,4 @@ description: Добро пожаловать в официальную доку�
 
 🛠️ **`Создатель:`** **@GFenixL#6222**  
 📢 **`Discord:`** [**discord.gg/jAugZ3jppm**](https://discord.gg/jAugZ3jppm)  
-- ![:developer:](https://cdn.discordapp.com/emojis/723087579276378153.png) text
+
