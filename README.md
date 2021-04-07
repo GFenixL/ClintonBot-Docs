@@ -10,6 +10,6 @@ description: Добро пожаловать в официальную доку�
 
 • ![:developer:](https://cdn.discordapp.com/emojis/723087579276378153.png?v=1) **`Создатель:`** **@GFenixL#6222**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Hello world
 {% endhint %}
