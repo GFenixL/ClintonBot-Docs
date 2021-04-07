@@ -8,6 +8,7 @@
 
 ## Команды
 * [Модерация](moderations/moderation.md)
-  * [Заглушить](mederations/mute.md)
-  * [Забанить](moderations/ban.md)
+  * [Приглушение](mederations/mute.md)
+  * [Бан](moderations/ban.md)
+  * [Исключение](moderations/kick.md)
 
