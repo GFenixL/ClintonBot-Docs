@@ -11,5 +11,4 @@ description: Добро пожаловать в официальную доку�
 ## 📜 Информация <a id="information"></a>
 
 🛠️ **`Создатель:`** **@GFenixL#6222**
-• ![:developer:](https://cdn.discordapp.com/emojis/723087579276378153.png) developer
-
+📢 **`Наш сервер Discord:`** [https://discord.gg/jAugZ3jppm](https://discord.gg/jAugZ3jppm)
