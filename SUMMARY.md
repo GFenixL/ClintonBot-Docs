@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Добро пожаловать](README.md)
+* [ClintonBot Docs](README.md)
 
