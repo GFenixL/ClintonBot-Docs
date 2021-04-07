@@ -11,4 +11,4 @@ description: Добро пожаловать в официальную доку�
 ## 📜 Информация <a id="information"></a>
 
 🛠️ **`Создатель:`** **@GFenixL#6222**  
-📢 **`Наш сервер Discord:`** [https://discord.gg/jAugZ3jppm](https://discord.gg/jAugZ3jppm)  
+📢 **`Discord:`** [https://discord.gg/jAugZ3jppm](https://discord.gg/jAugZ3jppm)  
