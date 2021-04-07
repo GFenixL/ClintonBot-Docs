@@ -8,5 +8,5 @@ description: Добро пожаловать в официальную доку�
 
 ## 📜 Информация <a id="information"></a>
 
-• ![:developer:](https://cdn.discordapp.com/emojis/723087579276378153.png?v=1?) **`Создатель:`** **@GFenixL#6222**
+• ![:developer:](https://cdn.discordapp.com/emojis/723087579276378153.png?v=1 =10x10) **`Создатель:`** **@GFenixL#6222**
 - <img src="https://cdn.discordapp.com/emojis/723087579276378153.png?v=1" alt="drawing" width="5", height="5"/> text
