@@ -3,12 +3,14 @@
 * [ClintonBot Documentation](README.md)
 
 ## Первые шаги
-* [Добавить на сервер](addtoserver.md)
-* [Начало работы](firstworking.md)
+
+* [Добавить на сервер](pervye-shagi/addtoserver.md)
+* [Начало работы](pervye-shagi/nachalo-raboty.md)
 
 ## Команды
-* [Модерация](moderations/moderation.md)
-  * [Приглушение](mederations/mute.md)
-  * [Бан](moderations/ban.md)
-  * [Исключение](moderations/kick.md)
+
+* [Модерация](komandy/moderaciya/README.md)
+  * [Приглушение](komandy/moderaciya/priglushenie.md)
+  * [Бан](komandy/moderaciya/ban.md)
+  * [Исключение](komandy/moderaciya/isklyuchenie.md)
 
