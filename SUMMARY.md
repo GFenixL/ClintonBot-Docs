@@ -4,13 +4,13 @@
 
 ## Первые шаги
 
-* [Добавить на сервер](pervye-shagi/addtoserver.md)
-* [Начало работы](pervye-shagi/nachalo-raboty.md)
+* [Добавить на сервер](first/addtoserver.md)
+* [Начало работы](first/starting.md)
 
 ## Команды
 
-* [Модерация](komandy/moderaciya/README.md)
-  * [Приглушение](komandy/moderaciya/priglushenie.md)
-  * [Бан](komandy/moderaciya/ban.md)
-  * [Исключение](komandy/moderaciya/isklyuchenie.md)
+* [Модерация](commands/moderation/README.md)
+  * [Приглушение](commands/moderation/mute.md)
+  * [Бан](commandsmoderation/ban.md)
+  * [Исключение](commands/moderation/kick.md)
 
