@@ -14,7 +14,3 @@
   * [Бан](komandy/moderaciya/ban.md)
   * [Исключение](komandy/moderaciya/isklyuchenie.md)
 
----
-
-* [Untitled](untitled.md)
-
