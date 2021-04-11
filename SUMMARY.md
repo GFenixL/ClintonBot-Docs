@@ -14,4 +14,6 @@
   * [Бан](commands/moderation/ban.md)
   * [Исключение](commands/moderation/kick.md)
 * [тест](test/README.md)
+  * [1](dhdh)
+  * [2](udjdj)
 
