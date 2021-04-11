@@ -13,4 +13,5 @@
   * [Приглушение](commands/moderation/mute.md)
   * [Бан](commands/moderation/ban.md)
   * [Исключение](commands/moderation/kick.md)
+* [тест](test/README.md)
 
