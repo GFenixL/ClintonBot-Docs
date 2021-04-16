@@ -19,7 +19,7 @@ description: Добро пожаловать в официальную доку�
 🛠️ **`Создатель:`** **@GFenixL\#6222**  
 💬 **`Переводчики:`**
 
-* ![:GB:](https://cdn.discordapp.com/attachments/738876729552142447/829945928441921588/GB.png)  **@AineD3V\#1024**
+* ![:GB:](https://cdn.discordapp.com/attachments/738876729552142447/829945928441921588/GB.png)  
 
 📢 **`Discord:`** [**discord.gg/jAugZ3jppm**](https://discord.gg/jAugZ3jppm)
 
