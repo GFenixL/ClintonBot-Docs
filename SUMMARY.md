@@ -13,7 +13,7 @@
   * [Приглушение](commands/moderation/mute.md)
   * [Бан](commands/moderation/ban.md)
   * [Исключение](commands/moderation/kick.md)
-* [тест](test/README.md)
-  * [1](dhdh)
-  * [2](udjdj)
+* [тест](commands/test/README.md)
+  * [1](commands/test/1.md)
+  * [2](commands/test/2.md)
 
